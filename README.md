@@ -1,5 +1,6 @@
 # ZeroWasteAgri
 ZeroWasteAgri is a data-driven solution to track, analyze, and reduce food waste in agriculture. It uses SQL databases, Python analytics, and Excel dashboards to monitor waste, optimize storage, and improve market access. The project supports SDG 12 (Responsible Consumption &amp; Production) for a sustainable food system. 🌱📊♻️
+
 📌 Problem Definition: Sustainable Agriculture in Kenya Amidst Unpredictable Rainfall Patterns
 1️⃣ Background
 Agriculture is the backbone of Kenya’s economy, contributing approximately 33% of the GDP and employing over 40% of the total population. Smallholder farmers, who produce about 75% of the country’s food, are the most affected by climate change, particularly unpredictable rainfall patterns.
